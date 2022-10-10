@@ -17,7 +17,7 @@
 	<body>
 		<div class="m-0 mx-auto p-0 sticky-top topBar container">
 			<div class='m-0 mt-2 mb-1 p-0 roundedborder border-3 banner'>
-				<a href='/'>
+				<a href='index.html'>
 					<div class='m-0 p-0 d-flex justify-content-center align-items-end rounded w-100 display-1 bannerGraphic'>
 						<p class='m-0 p-0 display-3'><b>Erwachsenen</b></p>
 						<p class='m-0 p-0 display-3'><b>-</b></p>
