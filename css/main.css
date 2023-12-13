@@ -8,7 +8,7 @@ html {
 	background-color: transparent;
 }
 .main{
-	overflow:hidden;
+	overflow:scroll;
 	}
 	
 body, .topBar {
@@ -17,7 +17,6 @@ body, .topBar {
 
 .main .contentItem {
 	background-color: #224422;
-	overflow: hidden;
 	color: #FFFBD7;
 }
 
@@ -33,7 +32,7 @@ body, .topBar {
 	font-weight: bold;
 }
 
-.navigation a p, .links a p, .authorMark a p {
+.contentItem a p, .navigation a p, .links a p, .authorMark a p {
 	text-align: center;
 	color: #FFFBD7;
 }
