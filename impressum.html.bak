@@ -40,9 +40,9 @@
 					</div>
 				</div>
 			</div>
-			<div class='mx-auto d-flex flex-column flex-grow-1 p-0 rounded container main'>
+			<div class='mx-auto d-flex flex-column flex-grow-0 p-0 rounded container main'>
 			
-			<div class='m-0 mt-1 mb-1 p-3 mb-1 flex-grow-1 rounded contentItem content' style="overflow:scroll">
+			<div class='m-0 mt-1 mb-1 p-3 mb-auto flex-grow-1 rounded contentItem content' style="overflow:scroll">
 					<div class='m-0 p-0 d-flex justify-content-center'>
 						<p class='m-0 p-0'>
 								<b>Anette Schwarz</b><br>

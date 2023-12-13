@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Erwachsenen-ADS.de - Selbsthilfegruppen</title>
+		<title>Erwachsenen-ADS.de - Links</title>
 		<meta name="keywords" content="ADS im Erwachsenenalter, Gesprächskreis, Hamburg, Hypie, ADS Betroffene, ADS, ADHS, Erwachsene, Zappelphillip, Hyperaktiv, Aufmerksamkeitsdefizit, selbstbetroffen, Alltagsprobleme">
 		<meta name="description" content="Gesprächskreis für ADS und ADHS Betroffene Erwachsene in und um Hamburg">
 		<meta name="Content-Language" content="de">
@@ -19,9 +19,7 @@
 			<div class="m-0 mx-auto p-0 flex-grow-0 topBar container">
 			<div class='m-0 mt-2 mb-1 p-0 roundedborder border-3 banner'>
 				<a href='/'>
-					<!-- <img src="images/erwachsenen-ads.jpg" class='m-0 p-0 rounded w-100' alt="" /> -->
 					<div class='m-0 p-0 d-flex justify-content-center align-items-end rounded w-100 display-1 bannerGraphic'>
-						<!--<p class='m-0 p-0 display-3'>www.</p> -->
 						<p class='m-0 p-0 display-3'><b>Erwachsenen</b></p>
 						<p class='m-0 p-0 display-3'><b>-</b></p>
 						<p class='m-0 p-0 display-3'><b>ADS</b></p>
@@ -29,36 +27,57 @@
 					</div>
 				</a>
 			</div>
-			<div class='m-0 p-0 mb-0 d-flex gap-1  rounded navigation'>
+			<div class='m-0 p-0 mb-0 d-flex gap-1 justify-content-around rounded navigation'>
 				<div class='m-0 p-0 w-100 d-flex justify-content-center'>
-					<a class='m-0 p-0 w-100 rounded d-flex justify-content-center align-items-center' href='links'>
+					<a class='m-0 p-0 w-100 rounded d-flex justify-content-center align-items-center active' href='links'>
 						<p class='m-0 p-1 rounded'>Links</p>
 					</a>
 				</div>
 				<div class='m-0 p-0 w-100 d-flex justify-content-center'>
-					<a class='m-0 p-0 w-100 rounded d-flex justify-content-center align-items-center active' href='selbsthilfeGruppe'>
+					<a class='m-0 p-0 w-100 rounded d-flex justify-content-center align-items-center' href='selbsthilfeGruppe'>
 						<p class='m-0 p-1 rounded'>Selbsthilfegruppen in Hamburg</p>
 					</a>
 				</div>
 			</div>
 		</div>
-		<div class='mx-auto d-flex flex-column flex-grow-1 p-0 rounded container main'>
+			<div class='mx-auto d-flex flex-column flex-grow-0 p-0 rounded container main'>
 			
 			<div class='m-0 mt-1 mb-1 p-3 mb-1 flex-grow-1 rounded content' style="overflow:scroll">
-			<div class='m-0 mt-1 mb-1 p-0 rounded d-flex justify-content-around row row-cols-3 links'>				
+			
+			<div class='m-0 mt-1 mb-1 p-0 rounded d-flex justify-content-around links row row-cols-3'>
 				<div style="width: min-content; height: fit-content;" class='m-1 p-0 rounded-2 d-flex justify-content-center col'>
-					<a class='m-0 p-0 rounded' href='https://www.adhs-deutschland.de/unser-angebot/selbsthilfegruppen/suche' target='_blank'>
+					<a class='m-0 p-0 rounded' href='https://www.adhs-deutschland.de/' target='_blank'>
 						<div class='m-0 p-0'>
 							<div class='m-1 p-0 rounded-2 linkImg'>
 								<img src="images/36a8e809-0654-46a1-99a2-8d303704b724.webp" width='150vi' class='m-0 p-0 rounded' alt="" />
 							</div>
-							<p class='m-0 p-1 align-bottom'>SHG - Suche</p>
+							<p class='m-0 p-1 align-bottom'>ADHS Deutschland</p>
+						</div>
+					</a>
+				</div>
+				<div style="width: min-content; height: fit-content;" class='m-1 p-0 rounded-2 d-flex justify-content-center col'>
+					<a class='m-0 p-0 rounded' href='https://www.adhspedia.de/' target='_blank'>
+						<div class='m-0 p-0'>
+							<div class='m-1 p-0 rounded-2 linkImg'>
+								<img src="images/adhspediaImg.png" width='150vi' class='m-0 p-0 rounded' alt="" />
+							</div>
+							<p class='m-0 p-1 align-bottom'>adhspedia.de</p>
+						</div>
+					</a>
+				</div>
+				<div style="width: min-content; height: fit-content;" class='m-1 p-0 rounded-2 d-flex justify-content-center col'>
+					<a class='m-0 p-0 rounded' href='https://www.discord.gg/ybsWrsZnag' target='_blank'>
+						<div class='m-0 p-0'>
+							<div class='m-1 p-0 rounded-2 linkImg'>
+								<img src="images/discord-icon-new-2021-logo-09772BF096-seeklogo.com.png" width='150vi' class='m-0 p-0 rounded' alt="" />
+							</div>
+							<p class='m-0 p-1 align-bottom'>Wir haben einen Discord Server</p>
 						</div>
 					</a>
 				</div>
 			</div>
 
-		</div>
+			</div>
 		</div>
 							<div class='m-1 p-0 rounded d-flex flex-grow-0 justify-content-center authorMark'>
 				<p class='m-0 p-0'>©2024</p>	

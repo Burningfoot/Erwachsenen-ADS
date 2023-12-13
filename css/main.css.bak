@@ -35,7 +35,6 @@ body, .topBar {
 
 .navigation a p, .links a p, .authorMark a p {
 	text-align: center;
-	color: #FFFBD7;
 }
 
 .navigation a:hover, .navigation .active, .links a:hover, .authorMark a:hover, .authorMark .active{
