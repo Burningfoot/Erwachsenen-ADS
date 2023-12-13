@@ -40,7 +40,7 @@
 					</div>
 				</div>
 			</div>
-			<div class='mx-auto d-flex flex-column flex-grow-1 justify-content-start p-0 rounded container main'>
+			<div class='mx-auto d-flex flex-column flex-grow-1 p-0 rounded container main'>
 			
 			<div class='m-0 mt-1 mb-1 p-3 mb-1 rounded contentItem content' style="overflow:scroll">
 					<p class="h3 d-flex justify-content-center">
@@ -65,7 +65,7 @@
 
 					</p>
 				</div>
-				<div class='m-0 mt-1 mb-1 p-3 rounded contentItem content'>
+				<div class='m-0 mb-1 p-3 rounded contentItem content'>
 					<p class='h3 d-flex justify-content-center'>Treffen</p>
 					<p class = "d-flex justify-content-around ">An jedem 2. und 4. Mittwoch im Monat um 20:00 Uhr. Der Treffpunkt ist in Hamburg-Ohlsdorf.</p>
 				</div>
